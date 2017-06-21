@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ReadMETARs
+Bundle-SymbolicName: ReadMETARs;singleton:=true
+Bundle-Version: 1.0.0.alpha
+Bundle-Activator: readmetars.ui.Activator
+Bundle-Vendor: Xriva Software
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
